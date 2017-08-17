@@ -32,7 +32,7 @@ sass:
 #email:             email
 #google.plus:        username
 twitter:            username
-#facebook:           username
+facebook:           https://www.facebook.com/yusra.ambreen
 github:             username
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
