@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Posts
-description: "List of posts"
+title: History
+description: "Glimpse of me"
 permalink: /posts.html
 ---
